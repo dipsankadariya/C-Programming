@@ -27,7 +27,7 @@ class Matrix{
 
     void calculate(){
         int i,j;
-        cout<<"Enter elements in first matrix" <<endl;
+        cout<<"Enter element in first matrix" <<endl;
         for(i = 0 ; i < row1 ; ++i){
             for(j = 0 ; j < col1 ; ++j){
                 cin >> array1 [i][j];
